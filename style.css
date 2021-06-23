@@ -1,0 +1,22 @@
+    @media only screen and (max-width: 600px) {
+       
+      }
+    body{
+        background-image: url('images/ajat4.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:30%;
+        
+    }
+    .tabel{
+        background-color:#E0FFFF;
+        width:110% ;
+    }
+    .utama{
+        width: 50%;
+        margin:0 auto;
+        margin-top:5%;
+    }
+    .paragraf{
+            text-align: justify;
+    }
